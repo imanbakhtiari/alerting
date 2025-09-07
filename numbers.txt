@@ -1,0 +1,13 @@
+[all]
+09353037104 | testuser
+
+[devops]
+0911111111 | testuser
+
+[cloud]
+
+[web]
+
+[noc]
+
+[sms_provider]
